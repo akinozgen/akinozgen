@@ -1,3 +1,5 @@
+<!-- Hello stalker -->
+
 <h1>Hi 👋, I'm Akın Özgen</h1>
 <h3>A man from Earth</h3>
 
