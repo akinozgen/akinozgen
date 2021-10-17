@@ -18,6 +18,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=akinozgen&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD2727&sideLabels=DD2727/?user=akinozgen&" alt="akinozgen" />
 </p>
 
+> _Wow! A lot of cards over there_
+
+### Enough of the fancy things. Here is boring the boring stuf
+
 
 - 🎓 I’m currently learning **JavaScript (vanilla and vue), Unreal Engine, and 🎸Electro :)**
 
@@ -71,4 +75,4 @@
 <a href="https://linkedin.com/in/akinozgen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akinozgen" height="30" width="40" /></a>
 </p>
 
-<p><i>Sorry if i'm talking too much :)</i></p>
+> _Sorry if i'm talking too much :)_
