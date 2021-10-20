@@ -25,7 +25,7 @@
 ### Enough of the fancy things. Here is boring the boring stuf
 
 
-- 🎓 I’m currently learning **JavaScript (vanilla and vue), Unreal Engine, and 🎸Electro :)**
+- 🎓 I’m currently learning **JavaScript (vanilla and vue), Unreal Engine**
 
 - 📫 You can reach me via email (**akinozgen17@outlook.com**), [Twitter](https://twitter.com/akin0zgen) or [LinkedIn](https://www.linkedin.com/in/akinozgen/)
 
