@@ -1,26 +1,12 @@
 <!-- Hello stalker -->
 
-<h1>Hi 👋, I'm Akın Özgen</h1>
+<h1>Hi, I'm Akın Özgen</h1>
 <h3>A man from Earth</h3>
-
-<p align="left"> 
-  
-  <img src="https://komarev.com/ghpvc/?username=akinozgen&label=Profile%20views&color=33ff33&style=flat" alt="akinozgen" />
-  <a href="https://twitter.com/akin0zgen" target="blank"><img src="https://img.shields.io/twitter/follow/akin0zgen?logo=twitter" alt="akin0zgen" /></a>
-  
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=akinozgen&title=Followers,Stars,Issues,Commit,Repositories,MultiLanguage&column=3&margin-w=15&margin-h=15&theme=dracula" alt="akinozgen" />
-  &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinozgen&langs_count=10&layout=compact&theme=dracula" alt="akinozgen" />
-</p>
+<img src="https://media3.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif?cid=ecf05e47zpsfmz57m73cwpc7xt10lsdgpe0akiwina49gzn9&rid=giphy.gif&ct=g" alt="https://github.com/akinozgen" />
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=akinozgen&hide=stars,issues&show_icons=true&theme=dracula&locale=en" alt="akinozgen" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=akinozgen&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD2727&sideLabels=DD2727/?user=akinozgen&" alt="akinozgen" />
 </p>
-
-> _Wow! A lot of cards over there_
 
 ### Enough of the fancy things. Here is boring the boring stuf
 
