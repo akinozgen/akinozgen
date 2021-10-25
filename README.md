@@ -8,7 +8,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=akinozgen&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD2727&sideLabels=DD2727/?user=akinozgen&" alt="akinozgen" />
 </p>
 
-### Enough of the fancy things. Here is boring the boring stuf
+### Enough of the fancy things. Here is the boring stuff
 
 
 - 🎓 I’m currently learning **JavaScript (vanilla and vue), Unreal Engine**
