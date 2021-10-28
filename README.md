@@ -62,5 +62,3 @@
 <a href="https://twitter.com/akin0zgen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akin0zgen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akinozgen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akinozgen" height="30" width="40" /></a>
 </p>
-
-> _Sorry if i'm talking too much :)_
