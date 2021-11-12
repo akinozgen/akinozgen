@@ -19,6 +19,7 @@
 | 🔦 | Morse Code Translator (Swift/Incomplete) | [https://github.com/akinozgen/morses-app](https://github.com/akinozgen/morses-app) | ![GitHub Repo stars](https://img.shields.io/github/stars/akinozgen/morses-app?style=plastic) | ![GitHub last commit](https://img.shields.io/github/last-commit/akinozgen/morses-app?style=plastic)  | 
 | ⁉️ | Resure (Curiouscat Clone/Incomplete) | [https://github.com/akinozgen/resure](https://github.com/akinozgen/resure) | ![GitHub Repo stars](https://img.shields.io/github/stars/akinozgen/resure?style=plastic) | ![GitHub last commit](https://img.shields.io/github/last-commit/akinozgen/resure?style=plastic)  | 
 | 🚨 | Earthquake Notification Script (Python)  | [https://github.com/akinozgen/son-depremler-bildirim](https://github.com/akinozgen/son-depremler-bildirim) | ![GitHub Repo stars](https://img.shields.io/github/stars/akinozgen/son-depremler-bildirim?style=plastic) | ![GitHub last commit](https://img.shields.io/github/last-commit/akinozgen/son-depremler-bildirim?style=plastic)  | 
+| ⏏ | GeniACS API Helper (PHP)  | [https://github.com/akinozgen/genieacs-helper-php](https://github.com/akinozgen/genieacs-helper-php) | ![GitHub Repo stars](https://img.shields.io/github/stars/akinozgen/genieacs-helper-php?style=plastic) | ![GitHub last commit](https://img.shields.io/github/last-commit/akinozgen/genieacs-helper-php?style=plastic)  | 
 
 
 
