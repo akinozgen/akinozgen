@@ -21,6 +21,6 @@
 | 🚨 | Earthquake Notification Script (Python)  | [https://github.com/akinozgen/son-depremler-bildirim](https://github.com/akinozgen/son-depremler-bildirim) | ![GitHub Repo stars](https://img.shields.io/github/stars/akinozgen/son-depremler-bildirim?style=plastic) | ![GitHub last commit](https://img.shields.io/github/last-commit/akinozgen/son-depremler-bildirim?style=plastic)  | 
 | ⏏ | GeniACS API Helper (PHP)  | [https://github.com/akinozgen/genieacs-helper-php](https://github.com/akinozgen/genieacs-helper-php) | ![GitHub Repo stars](https://img.shields.io/github/stars/akinozgen/genieacs-helper-php?style=plastic) | ![GitHub last commit](https://img.shields.io/github/last-commit/akinozgen/genieacs-helper-php?style=plastic)  | 
 
-
+![https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif](https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif)
 
 [Read More...](https://github.com/akinozgen/akinozgen/blob/main/more.md)
